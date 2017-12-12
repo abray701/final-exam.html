@@ -10,6 +10,7 @@ body {
   max-width: 700px;
   margin: 0 auto 0 auto;
   overflow: auto;
+  padding: 10px
 }
 @media(min-width: 650px) {
 .left-column {
@@ -42,4 +43,8 @@ p.source {
   border-bottom: 5px solid #E8E8E8;
   margin-bottom: 35px;
   padding-bottom: 20px;
+}
+.reveal-recipes{
+  padding: 10px;
+  background-color: #E8E8E8;
 }
